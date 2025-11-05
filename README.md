@@ -4,7 +4,7 @@ Welcome to my Data Science Master's portfolio. Below are a collection of differe
 
 ---
 
-## Project 1 - Income Analysis Using US Census Data
+## Project 1 - [Income Analysis Using US Census Data](https://github.com/ambriapearce/income-analysis-US-census-data)
 **Tools Used:** Orange3, Python, PUMS Dataset (Public Use Microdata Sample)  
 **Focus Area:** Data Preprocessing, Predictive Modelling, Demographic Insights
 
