@@ -15,7 +15,7 @@ This project analyses US Census data to explore patterns and inequalities in inc
 
 ⭐️ **key skills:** Data Mining, Feature Engineering, Data Ethics, Predictive Analytics
 
-## Project 2 - AI & Machine Learning Image Classification
+## Project 2 - [AI & Machine Learning Image Classification](https://github.com/ambriapearce/ai-machine-learning-image-classification)
 **Tools Used:** Python, TensorFlow/Keras, GridWorld, NumPy, Matplotlib  
 **Focus Area:** Machine Learning, Image Processing, Neural Networks, Reinforcement Learning, Value Iteration, Q-Learning
 
