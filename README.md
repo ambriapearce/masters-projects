@@ -34,7 +34,7 @@ This project investigates the relationship between reported **COVID-19** cases a
 
 ⭐️ **key skills:** Big Data Preprocessing, Tableau Dashboards, Public Health Analytics, Data Storytelling
 
-## Project 4 - Spotify Song Dataset Analyser
+## Project 4 - [Spotify Song Dataset Analyser](https://github.com/ambriapearce/spotify-song-dataset-analyser)
 **Tools Used:** Python, Pandas, SQLite, Matplotlib, Seaborn  
 **Focus Area:** Data Analysis, Recommendation Systems
 
