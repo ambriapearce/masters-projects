@@ -23,7 +23,7 @@ This project integrates both supervised and reinforcment learning techniques. Pa
 
 ⭐️ **key skills:** Deep Learning, CNNs, Reinforcement Learning, Experimental Design, Algorithm Evaluation
 
-## Project 3 - Big Data Project - COVID-19 in England
+## Project 3 - [Big Data Project - COVID-19 in England](https://github.com/ambriapearce/big-data-project-covid-england)
 **Tools Used:** Tableau, Excel, Powerpoint  
 **Focus Area:** Public Health Insights, Data Visualisation, Big Data Analytics
 
