@@ -38,7 +38,7 @@ This project investigates the relationship between reported **COVID-19** cases a
 **Tools Used:** Python, Pandas, SQLite, Matplotlib, Seaborn  
 **Focus Area:** Data Analysis, Recommendation Systems
 
-This project involved developing a song dataset analyser using a publicly available dataset, song.csv, which contains information on the top 2000 Spotify tracks from 1998 to 2020. The aim was to build an interactive analysis tool that enables users to explore song characteristics and identify similarities between tracks.
+This project involved developing a song dataset analyser using a publicly available dataset, **song.csv**, which contains information on the top 2000 Spotify tracks from 1998 to 2020. The aim was to build an interactive analysis tool that enables users to explore song characteristics and identify similarities between tracks.
 Tasks included:
 - Cleaning and preprocessing the dataset for analysis.
 - Exploring trends in popularity and tempo over time.
@@ -65,5 +65,5 @@ This Project explored the application of machine learning and explainable artifi
 ---
 
 ## Contact
-**LinkedIn:** []
+**LinkedIn:** [https://uk.linkedin.com/in/ambriapearce]
 
