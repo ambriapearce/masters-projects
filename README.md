@@ -47,8 +47,8 @@ Tasks included:
 
 ⭐️ **key skills:** Data Preprocessing, EDA, Data Visualisation
 
-## Dissertation Project - Identifying Early Risk Factors for Prediabetes Using Explainable Machine Learning: A Binary Classification Approach
-**(To be added at a later date)**  
+## Dissertation Project - [Identifying Early Risk Factors for Prediabetes Using Explainable Machine Learning: A Binary Classification Approach](https://github.com/ambriapearce/risk-prediction-prediabetes)
+
 **Focus Area:** Predictive Modelling, Healthcare Data, Explainable AI (XAI)
 
 This project explored the application of machine learning and explainable artificial intelligence algorithms to identify early risk factors for **Prediabetes**, a crucial transitional stage between normoglycaemia and Type II Diabetes. The study addressed common challenges in healthcare modelling like imbalanced datasets and model transparency by evaluating and comparing multiple algorithms including **Random Forest**, **Logistic Regression**, **Neural Network** and **Gradient Boosting (XGBoost)**. The goal was to asses predictive and interpretability showing how XAI methods can improve clinical trust and understanding in early risk detection.
