@@ -51,7 +51,7 @@ Tasks included:
 **(To be added at a later date)**  
 **Focus Area:** Predictive Modelling, Healthcare Data, Explainable AI (XAI)
 
-This Project explored the application of machine learning and explainable artificial intelligence algorithms to identify early risk factors for **Prediabetes**, a crucial transitional stage between normoglycaemia and Type II Diabetes. The study addressed common challenges in healthcare modelling like imbalanced datasets and model transparency by evaluating and comparing multiple algorithms including **Random Forest**, **Logistic Regression**, **Neural Network** and **Gradient Boosting (XGBoost)**. The goal was to asses predictive and interpretability showing how XAI methods can improve clinical trust and understanding in early risk detection.
+This project explored the application of machine learning and explainable artificial intelligence algorithms to identify early risk factors for **Prediabetes**, a crucial transitional stage between normoglycaemia and Type II Diabetes. The study addressed common challenges in healthcare modelling like imbalanced datasets and model transparency by evaluating and comparing multiple algorithms including **Random Forest**, **Logistic Regression**, **Neural Network** and **Gradient Boosting (XGBoost)**. The goal was to asses predictive and interpretability showing how XAI methods can improve clinical trust and understanding in early risk detection.
 
 ⭐️ **key skills:** XAI, Model Interpretability, Data Imbalance Handling, Predictive Modelling
 
@@ -59,8 +59,15 @@ This Project explored the application of machine learning and explainable artifi
 
 ## Professional Experience Projects
 
-## Project 1 - NHS Challenge: Longitudinal Analysis of Antidepressant Prescribing
-**(To be added at a later date)**  
+## Project 1 - [NHS Challenge: Longitudinal Analysis of Antidepressant Prescribing](https://github.com/ambriapearce/nhs-challenge-antidepressants)  
+**Tools Used:** R Studio  
+**Focus Area:** Longitudinal Data Analysis, Medical Data
+
+This project analysed antidepressant prescribing trends in England, focusing on annnual volume and costs. This project was apart of a profession work experience with Data Inspiration Group and NHS.  
+
+
+⭐️ **key skills:** Data Preprocessing, EDA, Data Visualisation
+
 
 ---
 
